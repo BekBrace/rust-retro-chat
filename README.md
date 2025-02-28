@@ -3,7 +3,7 @@
 A retro-styled terminal chat application built with Rust, showcasing async programming and the Cursive TUI library.
 
 ## Features
-
+ 
 - 🎨 Retro terminal UI using Cursive
 - 👥 Multiple concurrent users
 - 🚀 Async networking with Tokio
